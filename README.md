@@ -1,2 +1,2 @@
 # crap-portfolio
-# Net Ninje Git and Github titorial for beginners 11 -Collaborating on Github
+# Net Ninja Git and Github tutorial for beginners 11
